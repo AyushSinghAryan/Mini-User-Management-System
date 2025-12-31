@@ -54,8 +54,7 @@ Follow these steps to run the project locally.
 
 ### 📥 Clone the Repository
 ```bash
-git clone <repository_url>
-cd user-management-system
+git clone [<repository_url>](https://github.com/AyushSinghAryan/Mini-User-Management-System)
 ````
 
 ---
