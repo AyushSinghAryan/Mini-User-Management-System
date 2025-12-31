@@ -1,7 +1,3 @@
-Here’s a **clean, GitHub-ready `README.md`** version of your content.
-You can directly copy-paste this into a `README.md` file in your repository 👇
-
----
 
 ````md
 # 👤 User Management System
