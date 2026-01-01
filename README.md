@@ -1,6 +1,6 @@
 
 ````md
-# 👤 User Management System
+# 👤 Mini User Management System
 
 A full-stack **User Management System** built with the MERN stack, featuring secure authentication, role-based access control, and complete user lifecycle management.
 
